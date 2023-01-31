@@ -1,2 +1,2 @@
-import Array from "./exportArray.mjs";
-console.log(Array);
+import arrayName from "./exportArray.mjs";
+console.log(arrayName);
